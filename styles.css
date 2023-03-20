@@ -1,0 +1,67 @@
+body{
+    background-image: url("wallpaper.jpg");
+    font-family: sans-serif;
+    padding: 20px;
+    
+}
+.subtitle{
+    font-style: italic;
+}
+
+h1 , h2, h3, p{
+    text-align: center;
+}
+
+h1{
+    font-size: 32px;
+}
+
+h2{
+    font-size: 27px;
+}
+
+h1, h2{
+    font-family: impact, serif;
+}
+
+.mainDiv{
+    background-color:#599cd1;
+    width: 80%;
+    max-width: 500px;
+    margin-right: auto;
+    margin-left:auto;
+}
+
+
+hr{
+    height: 2px;
+    background-color:#5c5cf8;
+    border-color:#5c5cf8;
+}
+
+.mainDiv li{
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-size: 18px;
+}
+
+/* FOOTER */
+footer {
+    font-size: 14px;
+    margin-top: 20px;
+  }
+
+footer a{
+    color:blue;
+}
+
+footer a:hover {
+    color: rgb(125, 16, 214);
+}
+
+footer a:active{
+    color:white;
+}
+
+footer a:visited{
+    color:white;
+}
